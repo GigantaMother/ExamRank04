@@ -3,7 +3,7 @@ My exam 04
 
 microshell
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gmother/42cursus-minishell)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/gmother/minishell)](https://github.com/JaeSeoKim/badge42)
 
 Data  : 26.08.21
 
